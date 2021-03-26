@@ -1,7 +1,7 @@
-# Archie - Hugo theme
-Archie is a minimal and clean theme for hugo with a markdown-ish UI.
+# Delta - Hugo theme
+Delta is a minimal and clean theme for hugo with a org-ish UI.
 
-Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
+Forked from [Archie Theme](https://github.com/athul/archie)
 
 ## Demo
 
@@ -21,9 +21,9 @@ In your Hugo website directory, create a new folder named theme and clone the re
 ```bash
 $ mkdir themes
 $ cd themes
-$ git clone https://github.com/athul/archie.git
+$ git clone https://github.com/DarkBuffalo/Delta.git
 ```
-Edit the `config.toml` file with `theme="archie"`
+Edit the `config.toml` file with `theme="Delta"`
 For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
 
 ## Writing Posts
@@ -40,8 +40,8 @@ tags: [tag names] (optional)
 ```
 
 ## Credits
-Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil) and Licensed under MIT License 
-Inspired by design of blog.jse.li
+Forked from [Archie Theme](https://github.com/vividvilla/ezhil) and Licensed under MIT License 
+
 
 ----
 
